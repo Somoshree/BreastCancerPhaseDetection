@@ -5,11 +5,6 @@ Currently a product prototype for breast cancer lesion detection which predicts 
 
 It involved application of various specialized Machine Learning and Deep Learning algorithms in Python language entirely, The model was trained on a large authentic data-set to achieve more than 89% accuracy.
 
-It won the **'Best Project Award'** under **IEEE CS India Council SAC** at **IEEE Computer Society India Symposium 2018** competing some of the best teams from other top-notch national engineering colleges in the country.
-  - Supported by IEEE Computer Society
-  - Winners at Technergize 2018 at IEEE CSIS 2018
-  - Web - Based Application
-
 ### Summary
 
   - The model accepts the histopathological reports of the user as input.
@@ -35,21 +30,5 @@ The entire development has been done in Python.
 ### Installation
 
 Not Available Now
-
-### Team
-
-| Name | Connect With Us | Or Drop A Mail |
-| ------ | ------ |------ |
-| Shrutina Agarwal | [LinkedIn](https://www.linkedin.com/in/shrutina-agarwal-664657150/) | *shrutina.agarwal10@gmail.com* |
-| Gitesh Jain | [LinkedIn](https://www.linkedin.com/in/gitesh1996/) | *giteshjain844@gmail.com* |
-| Tuhin Das | [LinkedIn](https://www.linkedin.com/in/tuhind/) | tuhin.loves.federer@gmail.com |
-| Amitrajit Bose | [LinkedIn](https://www.linkedin.com/in/amitrajitbose/) | *amitrajitbose@gmail.com* |
-| Sivangi Tandon | [LinkedIn](https://in.linkedin.com/in/sivangi-tandon-40a05016a) | *sivangitandon@gmail.com* |
-
-
-### Contribute
-
-Want to contribute? Great! 😍
-Drop us a message at the contact details provided above.
 
 
